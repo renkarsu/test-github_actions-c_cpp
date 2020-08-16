@@ -1,3 +1,3 @@
 main:
 clean:
-        $(RM) main
+	$(RM) main
