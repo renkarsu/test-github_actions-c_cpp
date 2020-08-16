@@ -1,5 +1,10 @@
+int a = func();
+
+void func(){
+  
+}
+
 int main(){
-  //purposely invoke error
-  printf("aa");
+  
   return 0;
 }
